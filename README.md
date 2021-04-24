@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arnomassyn
-- 👀 I’m interested in ...
+- 👀 I’m interested in projects
 - 🌱 I’m currently learning machine learning & ai
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me massynarno@outlook.com
 
 <!---
